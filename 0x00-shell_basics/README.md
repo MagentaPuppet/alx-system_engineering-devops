@@ -1,2 +1,1 @@
-#!/bin/bash
-chmod pwd
+0x00-shell_basics
