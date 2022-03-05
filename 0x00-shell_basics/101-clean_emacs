@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 rm *~
+=======
+#!/bin/bash
+rm *~
+>>>>>>> 5b1f7348364fa70d96d66ee11f42667dde3226e2
