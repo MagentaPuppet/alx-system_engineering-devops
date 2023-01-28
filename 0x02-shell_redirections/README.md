@@ -1,1 +1,3 @@
-This directory explores tasks in shell using redirections
+0-hello_world
+1-confused_smiley
+README.md
